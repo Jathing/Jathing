@@ -1,0 +1,5 @@
+<a style="text-align:center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello+World%22)" alt="Typing SVG" /></a>
+<div style="margin: 0 auto"> 
+  <img src="https://bu.dusays.com/2023/03/02/64004d75a29d6.gif" alt="68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f636f64696e672e676966.gif" title="68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f636f64696e672e676966.gif" />
+</div>
+
