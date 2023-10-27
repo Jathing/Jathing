@@ -21,4 +21,4 @@ You can use the website to generate badges: https://shields.io/
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,go,rust,react,vue,astro,nestjs,vite,webpack,vite,rollupjs,linux,idea,neovim,vscode&perline=4)](https://skillicons.dev)
