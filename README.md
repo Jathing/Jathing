@@ -9,15 +9,12 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on something cool 😉;
+- 👨🏽‍💻 I'm based in Shanghai;
 - 🌱 I’m currently learning Rust and WASM
-- 📫 How to reach me: hi@chenjia.xin
+- 📫 You can contact me at [hi@chenjia.xin](mailto:hi@chenjia.xin)
 
 **Languages and Tools:**
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) 
@@ -46,5 +43,5 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)  
 
-<b>My GitHub Stats</b>
+**My GitHub Stats:**
 <a href="http://www.github.com/Jathing"><img src="https://github-readme-stats.vercel.app/api?username=Jathing&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="Jathing's GitHub stats" /></a>
