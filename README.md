@@ -1,6 +1,6 @@
 <!-- Your title -->
 
-## Hi 👋 My name is ChenJiaXin , a <Developer/> 🚀 from China.
+## Hi 👋 My name is ChenJiaXin , a `<Developer/>` 🚀 from China.
 
 
 <!-- Talking about you -->
