@@ -1,5 +1,5 @@
 <!-- Your title -->
-![Title](https://bu.dusays.com/2023/10/28/653ccc086fc6e.png)
+![](https://bu.dusays.com/2023/10/28/653ccc932e0ec.png)
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
